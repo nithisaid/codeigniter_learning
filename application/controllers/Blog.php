@@ -79,6 +79,5 @@ class Blog extends CI_Controller {
 		);
 		echo $this->location_model->addLocation($data);
 	}
-	
 
 }
