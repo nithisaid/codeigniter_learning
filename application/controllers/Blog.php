@@ -79,5 +79,10 @@ class Blog extends CI_Controller {
 		);
 		echo $this->location_model->addLocation($data);
 	}
+	//show QR CODE
+	public function showqrcode() {
+		$data['content'] = "page/showqrcode";
+		$this->load->view('template/default_template',$data);
+	}
 
 }
