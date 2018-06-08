@@ -2,11 +2,13 @@ Thank you Mr. Samit Koyom (https://github.com/iamsamit) and for advice
 
 https://www.itgenius.co.th/trainingdoc/rdwebdev/
 
-Relate keyword:-
-jquery-validation
-bootstrap 4.1.1
-fontawwsome 5.0.13
-vscode and many plugin such as 
+Relate keyword:
+
+Jquery-core
+Jquery-validation
+Bootstrap 4.1.1
+Font Awesome 5.0.13
+VScode and many plugin such as 
  - Beautify  by HookyQR
  - Color Picker  by anseki
  - AutoFileName by JerryHong
