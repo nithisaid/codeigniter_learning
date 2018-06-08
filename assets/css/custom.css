@@ -1,0 +1,31 @@
+#hilight {
+    height: 90vh;
+    background: url('../images/hilight.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: 50px;
+}
+
+#hilight h1 {
+    text-align: center;
+    color: aliceblue;
+    font-size: 36px;
+}
+
+#hilight p {
+    text-align: center;
+    color: antiquewhite;
+    font-size: 18px;
+}
+
+.navbar-brand img {
+    height: 50px;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    font-size: 20px;
+}
+
+#map {
+    height: 60vh;
+}

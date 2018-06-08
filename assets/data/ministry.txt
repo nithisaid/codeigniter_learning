@@ -1,0 +1,20 @@
+﻿1,สำนักนายกรัฐมนตรี,Office of the Prime Minister
+2,กระทรวงกลาโหม,Ministry of Defense
+3,กระทรวงการคลัง,Ministry of Finance
+4,กระทรวงการต่างประเทศ,Ministry of Foreign Affairs
+5,กระทรวงการท่องเที่ยวและกีฬา,Ministry of Tourism and Sports
+6,กระทรวงการพัฒนาสังคมและความมั่นคงของมนุษย์,Ministry of Social Development and Human Security
+7,กระทรวงเกษตรและสหกรณ์,Ministry of Agriculture and Cooperatives
+8,กระทรวงคมนาคม,Ministry of Transport
+9,กระทรวงทรัพยากรธรรมชาติและสิ่งแวดล้อม,Ministry of Natural Resources and Environment
+10,กระทรวงดิจิทัลเพื่อเศรษฐกิจและสังคม,Ministry of Digital Economy and Society
+11,กระทรวงพลังงาน,Ministry of Energy
+12,กระทรวงพาณิชย์,Ministry of Commerce
+13,กระทรวงมหาดไทย,Ministry of Interior
+14,กระทรวงยุติธรรม,Ministry of Justice
+15,กระทรวงแรงงาน,Office of the Minister
+16,กระทรวงวัฒนธรรม,Ministry of Culture
+17,กระทรวงวิทยาศาสตร์และเทคโนโลยี,Ministry of Science and Technology
+18,กระทรวงศึกษาธิการ,Ministry of Education
+19,กระทรวงสาธารณสุข,Ministry of Public Health
+20,กระทรวงอุตสาหกรรม,Ministry of Industry
